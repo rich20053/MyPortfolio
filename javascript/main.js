@@ -5,7 +5,7 @@ const linklist = [
     },
     {
         label: "WDD130",
-        url: "wd130/index.html"
+        url: "https://rich20053.github.io/WDD130/index.html"
     },
     {
         label: "COMM130",
@@ -29,7 +29,7 @@ const linklist = [
     },
     {
         label: "WDD331R",
-        url: "wdd331r/index.html"
+        url: "https://rich20053.github.io/WDD331RPortfolio/index.html"
     },
     {
         label: "WDD330",
